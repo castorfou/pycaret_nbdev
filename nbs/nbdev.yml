@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pycaret_nbdev"
+  site-url: "https://castorfou.github.io/pycaret_nbdev"
+  description: "to illustrate an issue with nbdev_docs"
+  repo-branch: main
+  repo-url: "https://github.com/castorfou/pycaret_nbdev"
